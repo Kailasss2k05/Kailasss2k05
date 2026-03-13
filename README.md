@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋 I'm Kailas
+
+🎓 3rd Year B.Tech Computer Science (AI and ML) student  
+💻 Interested in Backend Development, Distributed Systems, and Machine Learning  
+🚀 Passionate about building scalable systems and solving real-world problems
 
 # 💫 About Me:
 <br><br>🔭 I’m currently working on<br>An Event-Driven Public Complaint Management System using Apache Kafka, FastAPI, and Machine Learning.<br><br>👯 I’m looking to collaborate on<br>Backend development, distributed systems, and machine learning projects.<br><br>🤝 I’m looking for help with<br>Scalable system design and real-world machine learning deployment.<br><br>🌱 I’m currently learning<br>Apache Kafka, FastAPI, System Design, and Machine Learning model optimization.<br><br>💬 Ask me about<br>Python, FastAPI, Kafka, REST APIs, and Machine Learning.<br><br>⚡ Fun fact<br>I enjoy building event-driven systems that automate real-world processes.<br>

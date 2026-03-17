@@ -77,6 +77,3 @@ I enjoy building event-driven systems 🚀
 
 ---
 
-## 📊 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Kailasss2k05&icon=0&color=0)

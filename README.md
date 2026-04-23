@@ -24,26 +24,22 @@ Kafka internals, FastAPI advanced patterns, System Design, ML Optimization
 💬 **Ask Me About**  
 Python, FastAPI, Kafka, REST APIs, ML pipelines
 
-⚡ **Fun Fact**  
-I once spent 6 hours debugging a Kafka consumer lag issue that turned out to be a single missing `await`.
-
 ---
 
 ## 🚀 What I've Built
 
 <a href="https://github.com/Kailasss2k05/Event-driven-complaint-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=Event-driven-complaint-system&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=Event-driven-complaint-system&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
-<a href="https://github.com/nullpointers-team/slack-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=slack-bot&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Kailasss2k05/slack-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=slack-bot&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Kailasss2k05/ghost_operator_browser_agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=ghost_operator_browser_agent&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=ghost_operator_browser_agent&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Kailasss2k05/flow_core_workflow_automation_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=flow_core_workflow_automation_system&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=flow_core_workflow_automation_system&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
-
 ---
 
 ## 💡 A Few Things I've Learned the Hard Way

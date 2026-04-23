@@ -1,79 +1,80 @@
-# 👋 Hi there, I'm Kailas
+# Hey, I'm Kailas 👋
 
-🎓 3rd Year B.Tech Computer Science (AI & ML)  
-💻 Backend Developer | Distributed Systems | Machine Learning  
-🚀 Passionate about building scalable real-world systems  
+Backend developer who gets unreasonably excited about systems that 
+scale. I'm a 3rd-year CS (AI & ML) student, but I spend most of my 
+time outside the classroom — building real infrastructure, breaking 
+things, and figuring out why.
 
----
+I work at the intersection of **distributed systems** and **machine 
+learning**. Not the tutorial kind — the kind where Kafka drops a 
+message and something actually has to happen downstream.
 
-## 💫 About Me
-
-🔭 **Currently Working On**  
-Event-Driven Public Complaint Management System using Kafka, FastAPI & ML  
-
-👯 **Looking to Collaborate On**  
-Backend, Distributed Systems, ML Projects  
-
-🤝 **Looking for Help With**  
-Scalable System Design & ML Deployment  
-
-🌱 **Currently Learning**  
-Kafka, FastAPI, System Design, ML Optimization  
-
-💬 **Ask Me About**  
-Python, FastAPI, Kafka, REST APIs, ML  
-
-⚡ **Fun Fact**  
-I enjoy building event-driven systems 🚀  
+Currently open to **remote backend roles** and **freelance projects**.
 
 ---
 
-## 🌐 Socials
+## What I'm Building
 
-<p align="left">
-  <a href="mailto:kailasss100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Kailasss2k05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kailas-s-s-a9aa3a378">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### 🔧 Public Complaint Management System
+An event-driven backend where citizen complaints are ingested via 
+Kafka, classified by an ML model, and routed to the right department 
+— all in near real-time.
+
+**Stack:** FastAPI · Apache Kafka · PostgreSQL · PyTorch · Docker  
+**Why it exists:** Government complaint portals are broken. 
+This is my attempt at fixing the backend layer.  
+→ [View Repo](#) ← *(link your actual repo here)*
 
 ---
 
-## 💻 Tech Stack
+## What I'm Good At
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
+**Backend & APIs**  
+FastAPI, Flask, REST API design, PostgreSQL, MySQL
 
----
+**Distributed Systems**  
+Apache Kafka — producers, consumers, topic design, fault tolerance
 
-## 🛠 Languages & Tools
+**Machine Learning**  
+PyTorch, scikit-learn, model training, trying to get inference 
+fast enough to be useful in production
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</p>
+**Infrastructure**  
+Docker, Linux, Git — comfortable working without a GUI
+
+**Languages**  
+Python (primary) · Java · C
 
 ---
 
+## A Few Things I've Learned the Hard Way
+
+- Kafka is not a queue. Treating it like one will humble you.
+- A model that works in a notebook is not a deployed model.
+- System design is mostly about what you *don't* build.
+
+---
+
+## Let's Work Together
+
+I'm looking for:
+- **Remote backend/ML engineering roles** (internship or contract)
+- **Freelance projects** — APIs, data pipelines, backend systems
+
+If you have something interesting to build, I want to hear about it.
+
+📬 **kailasss100@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/kailas-s-s-a9aa3a378)  
+🐙 [GitHub](https://github.com/Kailasss2k05)
+
+---
+
+## Tech I Reach For
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=flat-square&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

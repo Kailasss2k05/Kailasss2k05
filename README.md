@@ -93,10 +93,6 @@ Python, FastAPI, Kafka, REST APIs, ML pipelines
   <img src="https://streak-stats.demolab.com?user=Kailasss2k05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kailasss2k05&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</p>
-
 ---
 
 ## 🐍 Contribution Graph

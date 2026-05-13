@@ -25,22 +25,14 @@ Kafka internals, FastAPI advanced patterns, System Design, ML Optimization
 Python, FastAPI, Kafka, REST APIs, ML pipelines
 
 ---
-
 ## 🚀 What I've Built
 
-<a href="https://github.com/Kailasss2k05/Event-driven-complaint-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=Event-driven-complaint-system&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Kailasss2k05/slack-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=slack-bot&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Kailasss2k05/ghost_operator_browser_agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=ghost_operator_browser_agent&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Kailasss2k05/flow_core_workflow_automation_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailasss2k05&repo=flow_core_workflow_automation_system&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
----
+| Project | Description |
+|--------|-------------|
+| [Event-Driven Complaint System](https://github.com/Kailasss2k05/Event-driven-complaint-system) | Citizen complaints ingested via Kafka, classified by ML, routed to departments in near real-time |
+| [Slack Bot](https://github.com/Kailasss2k05/slack-bot) | A custom Slack bot built for automation and workflow integration |
+| [Ghost Operator Browser Agent](https://github.com/Kailasss2k05/ghost_operator_browser_agent) | Autonomous browser agent for web task automation |
+| [FlowCore Workflow Automation](https://github.com/Kailasss2k05/flow_core_workflow_automation_system) | A modular workflow automation engine |
 
 ## 💡 A Few Things I've Learned the Hard Way
 
